@@ -4,8 +4,7 @@
 
 <!-- Add buttons here -->
 
-<!-- Describe your project in brief -->
-An API for processing images implemented as part of the **Advanced Web Development Track** offered by **egFWD Initiative** through **Udacity**.
+
 
 This project was structured from scratch, with ZERO starter files.
 
@@ -36,7 +35,7 @@ To use this project, you need to follow the commands below:
 1. Clone the repository into your local machine:
 
    ```bash
-   git clone https://github.com/ibrahimelmokhtar/ts-image-processing-api.git
+   git clone link
    ```
 
 2. Redirect inside the cloned repository:
@@ -315,15 +314,5 @@ These packages can be found in the `"devDependencies"` object inside the `packag
 - [jasmine-spec-reporter](https://www.npmjs.com/package/jasmine-spec-reporter) - Spec reporter for jasmine behavior-driven development framework.
 - [supertest](https://www.npmjs.com/package/supertest) - SuperAgent driven library for testing HTTP servers.
 
-# Useful Resources
 
-[(Back to top)](#table-of-contents)
 
-- [Documentation: Prettier Options](https://prettier.io/docs/en/options.html)
-- [Documentation: ESLint Configuring Rules](https://eslint.org/docs/user-guide/configuring/rules#configuring-rules)
-- [Documentation: Jasmine Module](https://jasmine.github.io/setup/nodejs.html)
-- [Documentation: Express-Validator Module](https://express-validator.github.io/docs/)
-- [Documentation: Sharp Module](https://sharp.pixelplumbing.com/)
-- [Youtube Video: Use Express-Validator Module with NodeJs](https://www.youtube.com/watch?v=7i7xmwowwCY)
-- [Youtube Video: Use Sharp Module with NodeJs](https://www.youtube.com/watch?v=WtuJLcBvxI0)
-- [Article: How to use Code Blocks within Markdown Files](https://rdmd.readme.io/docs/code-blocks)
